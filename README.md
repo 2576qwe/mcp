@@ -1,2 +1,1 @@
-# mcp
-存放MCP工具
+MCP Repo
